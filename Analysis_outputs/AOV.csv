@@ -1,0 +1,4 @@
+"Transaction_Status","Numero_Prenotazioni","Ticket_Medio_EUR","Totale_Volume"
+Chargeback,9,2402.0,16814.2
+Failed,34,1304.5,41743.5
+Success,1457,1731.5,2386043.6

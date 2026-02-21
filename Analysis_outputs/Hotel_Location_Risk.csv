@@ -1,0 +1,7 @@
+"Municipality","Hotel_Type","Total_Bookings_Success","Revenue_Confirmed","Total_Bookings_Failed","Revenue_Lost","Total_Bookings_Chargeback","Revenue_At_Risk","Risk_Rate_Percentage"
+Orosei,Family Club,292,272314.23,11,9169.14,0,0,3.26
+Capoliveri,Residence,294,512492.13,8,16632.41,0,0,3.14
+Gallipoli,Beach Resort,280,258397.46,10,7798.16,0,0,2.93
+San Candido,Luxury Hotel,291,808385.29,2,4001.5299999999997,9,16814.24,2.51
+Lazise,Boutique Hotel,276,487495.99,3,4142.25,0,0,0.84
+,,24,46958.47,0,0,0,0,0.0

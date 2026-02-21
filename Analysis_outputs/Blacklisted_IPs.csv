@@ -1,0 +1,10 @@
+"IP_Address","Customer_Name","Municipality","Booking_Date","Expected_Revenue","Transaction_Status"
+"104.81.61.15",Steven Reed,San Candido,"2025-04-26",,Chargeback
+"122.61.78.178",Kimberly Murphy,San Candido,"2025-03-18",412.1,Chargeback
+"133.250.139.162",Christian Jones,San Candido,"2025-09-23",,Chargeback
+"154.99.233.149",Chad Warren,San Candido,"2025-05-09",2507.85,Chargeback
+"192.76.44.185",Phillip Brown,San Candido,"2025-06-23",2892.54,Chargeback
+"214.224.7.153",Gregg Hodge,San Candido,"2025-11-01",5687.24,Chargeback
+"220.138.193.56",Jennifer Contreras,San Candido,"2025-03-01",3603.53,Chargeback
+"36.98.216.75",Jeanne Robinson,San Candido,"2025-12-11",500.83,Chargeback
+"87.182.191.211",Nathan Gibson,San Candido,"2025-11-07",1210.15,Chargeback
