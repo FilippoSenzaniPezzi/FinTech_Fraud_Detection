@@ -203,7 +203,7 @@ While the business focus was primarily on the €16,814.24 lost to chargebacks, 
 
 As a conclusion, in both cases (chargeback and failed transactions) the company is losing money, but the approach to a solution is completely different. In San Candido they need to implement stronger identity checks to avoid scammers, while in Gallipoli and Orosei the optimization of the payment gateway would recover three times the amount lost to actual fraud.
 
-## What's next?
+## What's Next?
 
 In luxury hotels, I would advise implementing a mandatory Strong Customer Authentication (3DS2) for all bookings exceeding €2,000 or stays longer than 5 nights. Managers could also launch every morning the following query, to detect suspicious transactions over the average: 
 
